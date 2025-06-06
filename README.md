@@ -4,9 +4,7 @@ Este projeto demonstra um consumidor RabbitMQ utilizando .NET 8 e a biblioteca R
 
 ## Download
 
-Você pode baixar o executável **ExemploConsumer.exe** diretamente na página de releases do projeto:
-
-[https://github.com/inovamobil/invm-dotnet-exemplo-consumer/releases/tag/v1.0](https://github.com/inovamobil/invm-dotnet-exemplo-consumer/releases/tag/v1.0)
+Baixe a versão mais recente do **ExemploConsumer.exe** na página de [releases](https://github.com/inovamobil/invm-dotnet-exemplo-consumer/releases/latest).
 
 ## Detalhes do Código
 
